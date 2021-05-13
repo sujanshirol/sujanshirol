@@ -1,6 +1,6 @@
 ### Hello...! 👋
 
-**I'm Sujan Shirol** specialized in Machine Learning, Statistics and Data Analysis.
+**I'm Sujan Shirol** specialized in Machine Learning, Statistics and Data Analysis. 3x [Kaggle Expert](https://www.kaggle.com/sujan97)
 
 About me: 👇
 
