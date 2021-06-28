@@ -4,7 +4,8 @@
 
 About me: 👇
 
-- 🔭 I’m currently working on as Machine Learning Intern at [Towards AI](https://www.linkedin.com/company/towards-artificial-intelligence/).
+- 🔭 I’m currently working as Technical Writer, Machine Learning at  [Snorkel AI](https://www.linkedin.com/company/snorkel-ai/mycompany/), one of the emerging companies in Silicon Valley.
+- 🔭 Interned at  [Towards AI](https://www.linkedin.com/company/towards-artificial-intelligence/) as Software Engineer, Machine Learning.
 - 🌱 Pursuing Masters of Technology in Data Science and Machine Learning at [PES University, India](https://pes.edu).
 - 👯 I’m looking to collaborate for my upcoming thesis on Deep Learning.
 - 🤔 I’m also looking for long-term internships in Machine Learning / Deep Learning
