@@ -10,7 +10,7 @@ About me: 👇
 - 🌍 Check out my [website](https://sujan-shirol.wixsite.com/resume).
 - 🚀 I’m also looking for long-term internships in Machine Learning / Deep Learning
 - 💬 Currently working on NLP projects.
-- 📫 How to reach me: [E-mail](mailto:sshirol73@gmail.com), [LinkedIn](https://www.linkedin.com/in/sujan-shirol/)(More Active)
+- 📫 How to reach me: [E-mail](mailto:sshirol73@gmail.com), [LinkedIn](https://www.linkedin.com/in/sujan-shirol/) (More Active)
 - ⚡ Hobbies: Data Science blogging
 
 I enjoy writing data science blogs 🤓, contributing to open source 📖, working on new projects and of course playing basket ball 🏀 and long bike rides 🏍️.
