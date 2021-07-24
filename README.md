@@ -17,7 +17,8 @@ Interests: 💡
 - Basketball 🏀
 - Long bike rides 🏍️
 - Exploring food destinations 🍽
-- Google Guide (level 6)
+- Google Guide (level 6)🤠. Check my [contributions](https://maps.app.goo.gl/EPFd666AoyhdWwHt9)
+- Check my reviews on top 10 biriyani destinations [here](https://www.google.com/maps/placelists/list/zdgKBclzNJSzL8VMh6pB-QtVkcguYw)
 
 Few of my recent works:
 1. [Data Science Job Market Trend Analysis for 2021](https://pub.towardsai.net/current-data-science-job-market-trend-analysis-future-4184f03a04ca?source=friends_link&sk=a6a4a77eb5ca0cfb61d2c9382e3ad3c2)
