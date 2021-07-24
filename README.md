@@ -13,7 +13,11 @@ About me: 👇
 - 📫 How to reach me: [E-mail](mailto:sshirol73@gmail.com), [LinkedIn](https://www.linkedin.com/in/sujan-shirol/) (More Active)
 - ⚡ Hobbies: Data Science blogging
 
-I enjoy writing data science blogs 🤓, contributing to open source 📖, working on new projects and of course playing basket ball 🏀 and long bike rides 🏍️.
+Interests: 💡
+- Basketball 🏀
+- Long bike rides 🏍️
+- Exploring food destinations 🍽
+- Google Guide (level 6)
 
 Few of my recent works:
 1. [Data Science Job Market Trend Analysis for 2021](https://pub.towardsai.net/current-data-science-job-market-trend-analysis-future-4184f03a04ca?source=friends_link&sk=a6a4a77eb5ca0cfb61d2c9382e3ad3c2)
