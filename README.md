@@ -8,7 +8,7 @@
 - 🥇 Interned at  [Towards AI](https://www.linkedin.com/company/towards-artificial-intelligence/) as Software Engineer, Machine Learning.
 - 📚 Pursuing Masters of Technology in Data Science and Machine Learning at [PES University, India](https://pes.edu).
 - 🌍 Check out my [website](https://sujan-shirol.wixsite.com/resume).
-- 🚀 I’m also looking for long-term internships in Machine Learning / Deep Learning
+- 🚀 I’m also looking for a full-time in Machine Learning / Data Science.
 - 💬 Currently working on NLP projects.
 - 📫 How to reach me: [E-mail](mailto:sshirol73@gmail.com), [LinkedIn](https://www.linkedin.com/in/sujan-shirol/) (More Active)
 - ⚡ Hobbies: Data Science blogging
