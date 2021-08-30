@@ -13,7 +13,7 @@
 - 📫 How to reach me: [E-mail](mailto:sshirol73@gmail.com), [LinkedIn](https://www.linkedin.com/in/sujan-shirol/) (More Active)
 - ⚡ Hobbies: Data Science blogging
 
-## Summary of [recommendation letter](https://user-images.githubusercontent.com/71747522/131354906-ccb93408-ac41-4eab-a76b-59bc8edfe86a.png) from Towards AI.
+## Summary of [recommendation letter](https://user-images.githubusercontent.com/71747522/131354906-ccb93408-ac41-4eab-a76b-59bc8edfe86a.png) by Towards AI.
 `Sujan is intelligent, analytical and seeks to gain in-depth expertise with his determination and hard work. Sujan and I have collaborated on several projects, ranging from technical tutorials to open-source work. He has effectively and inquisitively more than proved his motivation and displays talent and an analytical aptitude fit for industry, education, or research.  I unreservedly give my highest recommendation to Sujan for a highly technical role within data science, machine learning `
 
 -Roberto Iriondo
