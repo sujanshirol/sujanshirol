@@ -1,8 +1,8 @@
-### Hello...! 👋
+# Hello...! 👋
 
 **I'm Sujan Shirol** specialized in Machine Learning, Statistics and Data Analysis. 3x [Kaggle Expert](https://www.kaggle.com/sujan97)
 
-About me: 👇
+## About me: 👇
 
 - 🎯 I’m currently working as Technical Writer, Machine Learning at  [Snorkel AI](https://www.linkedin.com/company/snorkel-ai/mycompany/), one of the emerging companies in Silicon Valley.
 - 🥇 Interned at  [Towards AI](https://www.linkedin.com/company/towards-artificial-intelligence/) as Software Engineer, Machine Learning.
@@ -13,14 +13,14 @@ About me: 👇
 - 📫 How to reach me: [E-mail](mailto:sshirol73@gmail.com), [LinkedIn](https://www.linkedin.com/in/sujan-shirol/) (More Active)
 - ⚡ Hobbies: Data Science blogging
 
-Interests: 💡
+## Interests: 💡
 - Basketball 🏀
 - Long bike rides 🏍️
 - Exploring food destinations 🍽
 - Google Guide (level 6)🤠. Check my [contributions](https://maps.app.goo.gl/EPFd666AoyhdWwHt9)
 - Check my reviews on top 10 biriyani destinations [here](https://www.google.com/maps/placelists/list/zdgKBclzNJSzL8VMh6pB-QtVkcguYw)
 
-Few of my recent works:
+## Few of my recent works:
 1. [Data Science Job Market Trend Analysis for 2021](https://pub.towardsai.net/current-data-science-job-market-trend-analysis-future-4184f03a04ca?source=friends_link&sk=a6a4a77eb5ca0cfb61d2c9382e3ad3c2)
 2. [Random Number Generator Tutorial with Python](https://pub.towardsai.net/random-number-generator-tutorial-with-python-3b35986132c7?source=friends_link&sk=c70b98e0e7e3fdc089afcefd1ff66d32)
 3. [Genetic Algorithm (GA) Introduction with Example Code](https://pub.towardsai.net/genetic-algorithm-ga-introduction-with-example-code-e59f9bc58eaf?source=friends_link&sk=9354f7181d726dd0c005301129dda9e9)
