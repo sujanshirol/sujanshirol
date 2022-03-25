@@ -4,7 +4,7 @@
 
 ## About me: 👇
 
-- 🎯 I’m currently freelancing as ML / DS writer  with companies like [Snorkel AI](https://www.linkedin.com/company/snorkel-ai/mycompany/), one of the emerging companies in Silicon Valley and [Datalogz](https://www.datalogz.io)
+- 🎯 I’m currently freelancing with [Datalogz](https://www.datalogz.io) and Editor @ [Towards AI](https://towardsai.net).
 - 🥇 Interned at  [Towards AI](https://www.linkedin.com/company/towards-artificial-intelligence/) as Software Engineer, Machine Learning.
 - 📚 Pursuing Masters of Technology in Data Science and Machine Learning at [PES University, India](https://pes.edu).
 - 🌍 Check out my [website](https://sujan-shirol.wixsite.com/resume).
